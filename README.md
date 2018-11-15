@@ -1,5 +1,5 @@
 # practical-test
-## Installating Prerequisites
+## Installing Prerequisites
 
 1. Download and Install JDK
 https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
